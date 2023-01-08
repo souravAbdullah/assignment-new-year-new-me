@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* Header Styles */
+
+.header {
+    background-image: url('../images/banner/banner1.png');
+    width: 1600px;
+    height: 808px;
+}
+
+div {
+    text-align: right;
+    margin-right: 230px;
+}
+
+.banner-title {
+    color: #151414;
+    font-weight: 700px;
+    font-size: 65px;
+    width: 525px;
+    height: 228px;
+    padding-top: 215px;
+    margin-left: 845px;
+}
+
+.banner-description {
+    color: #444343;
+    width: 494px;
+    height: 78px;
+    margin-left: 876px;
+    margin-top: 24px;
+}
+
+.btn-contact {
+    color: #FFFFFF;
+    width: 160px;
+    height: 64px;
+    margin-left: 1210px;
+    background: #F15B22;
+    border-radius: 5px;
+    padding: 20px 25px;
+}
+
+/* Main Part Styles */
+
+main{
+    max-width: 1140px;
+}
+
+.failure {
+    display: flex;
+    gap: 80px;
+    margin: 130px;
+}
+img {
+    margin-left: 70px;    
+}
+
+.failure-section-title{
+    width: 288px;
+    height: 94px;
+    font-weight: 700;
+    font-size: 40px;
+    margin-top: 200px;
+    margin-bottom: 24px;
+}
+    
+
+.failure-section-description {
+    width: 416px;
+    height: 104px;
+}
+
+.my-plans {
+    margin-top: 130px;
+    margin-left: 230px;
+    margin-right: 230px;
+    width: 1140px;
+    height: 300px;
+}
+
+.plans-section-title {
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 60px;
+    margin-left: 700px;
+}
+
+.skills-container {
+    display: flex;
+    gap: 80px;
+    /* justify-content: space-around; */
+}
+
+.skill{
+    text-align: center;
+}
+
+.skill-title {
+    font-weight: 700;
+    font-size: 30px;
+    width: 270px;
+}
+
+.skill-description{
+    color: #737272;
+    font-weight: 500px;
+    font-size: 25px;
+    width: 215px;
+    height: 30px;
+}
+

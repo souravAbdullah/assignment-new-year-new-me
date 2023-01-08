@@ -92,7 +92,7 @@ img {
 .skills-container {
     display: flex;
     gap: 80px;
-    /* justify-content: space-around; */
+    justify-content: space-around;
 }
 
 .skill{
